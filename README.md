@@ -77,6 +77,7 @@ Dashboard em Power BI para análise de mais de **103 mil registros de casos de A
 
 - 🎓 **Engenharia de Software** — UniSociesc
 - 🟠 **API Beginner — Postman**
+- 🟠 **API Testing Path — Postman**
 - 🌐 **EF SET English Certificate — C1 Advanced**
 - 🎯 **ISTQB Foundation Level — em preparação**
 
